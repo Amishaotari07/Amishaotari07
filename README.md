@@ -1,78 +1,81 @@
-# Hi, I'm Amisha Otari 👋
+# Amisha Otari
 
-### Data Analyst | Web Developer | AWS Learner
+### Data Analyst | Business Analytics | Web Development | AWS
 
-I'm a Computer Science graduate interested in **Data Analytics, Web Development, and Cloud Technologies**. I enjoy working with data, building practical projects, and continuously improving my technical skills.
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Computer Science Engineering Graduate
-* 📊 Interested in **Data Analytics & Business Analytics**
-* 💻 Interested in **Web Development & Python**
-* ☁️ Currently learning **AWS Cloud Fundamentals**
-* 🌱 Focused on practical learning and project development
-* 🤝 Open to collaborating on data, web, and technology projects
+Computer Science graduate with an interest in **Data Analytics, Business Analytics, Web Development, and Cloud Technologies**. Building practical projects while developing skills in data analysis, visualization, programming, and modern web technologies.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Professional Profile
 
-| Category               | Skills & Technologies                                    |
-| ---------------------- | -------------------------------------------------------- |
-| **Programming**        | Python, JavaScript                                       |
-| **Data Analysis**      | Excel, SQL, Pandas, NumPy                                |
-| **Data Visualization** | Power BI, Excel Charts                                   |
-| **Web Development**    | HTML, CSS, JavaScript                                    |
-| **Database**           | MySQL                                                    |
-| **Cloud**              | AWS                                                      |
-| **Development Tools**  | Git, GitHub, VS Code, Jupyter Notebook                   |
-| **Other**              | Data Cleaning, Exploratory Data Analysis, UI Development |
+* Computer Science Engineering Graduate
+* Interested in **Data Analytics and Business Analytics**
+* Developing practical skills in **SQL, Excel, Power BI, and Python**
+* Knowledge of **HTML, CSS, JavaScript, and UI Development**
+* Currently exploring **AWS Cloud Fundamentals**
+* Experienced in building academic, internship, and practical projects
+* Interested in entry-level opportunities where I can apply my technical and analytical skills
 
 ---
 
-## 📌 Projects
+## Skills & Technologies
 
-### 📊 OIBSIP
-
-Data Analytics projects focused on practical data analysis, data cleaning, visualization, and insights.
-
-### 💼 Intershala Project
-
-A practical project developed as part of my learning and development experience.
-
-### 🌐 Freelancing Web App
-
-A web-based project focused on creating a user-friendly freelancing platform.
-
----
-
-## 📚 Currently Learning
-
-**SQL → Excel & Power BI → Data Visualization → Python → Web Development → AWS**
-
-Focused on building practical skills through projects and continuous learning.
+| Area                   | Technologies / Skills                                        |
+| ---------------------- | ------------------------------------------------------------ |
+| **Programming**        | Python, JavaScript                                           |
+| **Data Analysis**      | Excel, SQL, Pandas, NumPy                                    |
+| **Data Visualization** | Power BI, Excel Charts                                       |
+| **Database**           | MySQL                                                        |
+| **Web Development**    | HTML, CSS, JavaScript                                        |
+| **UI Development**     | Responsive UI, Front-End Development                         |
+| **Cloud**              | AWS                                                          |
+| **Data Skills**        | Data Cleaning, Exploratory Data Analysis, Data Visualization |
+| **Tools**              | Git, GitHub, VS Code, Jupyter Notebook                       |
 
 ---
 
-## 🎯 Career Interests
+## Projects
 
-**Data Analyst • Business Analyst • Python Developer • Web Developer • Data Science • Cloud**
+### OIBSIP
+
+Practical projects focused on **Data Analytics, Data Cleaning, Exploratory Data Analysis, Visualization, and Business Insights**.
+
+### Intershala Project
+
+Practical project demonstrating **development skills, problem-solving, and project implementation**.
+
+### Freelancing Web App
+
+Web development project focused on **user interface design, front-end development, and creating a practical web application experience**.
 
 ---
 
-## 🤝 Let's Connect
+## Current Learning
 
-📧 **Email:** [lsawant487@gmail.com](mailto:lsawant487@gmail.com)
+**SQL → Excel → Power BI → Data Visualization → Python → Web Development → AWS**
 
-💻 **GitHub:** [Amishaotari07](https://github.com/Amishaotari07)
-
-🔗 **LinkedIn:** [Amisha Otari](https://linkedin.com/in/amisha-otari)
+Continuously developing technical and analytical skills through **hands-on projects and practical learning**.
 
 ---
 
-⭐ *Learning • Building • Improving*
+## Career Interests
+
+**Data Analyst | Business Analyst | Python Developer | Web Developer | Data Science | Cloud**
+
+---
+
+## Connect
+
+**Email:** [lsawant487@gmail.com](mailto:lsawant487@gmail.com)
+
+**GitHub:** [Amishaotari07](https://github.com/Amishaotari07)
+
+**LinkedIn:** [Amisha Otari](https://linkedin.com/in/amisha-otari)
+
+---
+
+### Building skills. Solving problems. Creating practical solutions.
+
 
 <!---
 Amishaotari07/Amishaotari07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
